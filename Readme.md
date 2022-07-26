@@ -1,3 +1,3 @@
 Readme no Projeto Git
 
-git
+git <
